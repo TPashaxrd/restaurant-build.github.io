@@ -1,0 +1,4 @@
+- React & TypeScript = TSX
+- LocalStorage - Toast
+
+# LOCALSTORAGE = if 'yes': : Enter
