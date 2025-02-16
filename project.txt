@@ -4,3 +4,5 @@
 # LOCALSTORAGE = if 'yes': : Enter
 # ALREADY YOU'RE IN VERIFICATION
 # TAKE GENDER TO Mrs. and Mr.
+# Search in Products
+# LEARN JWT
